@@ -1,4 +1,4 @@
-Electron/React - most basic debuggable framework.
+Electron/React - most basic debuggable boilerplate framework.
 
 1. Clone this repo
 2. Install dependencies
